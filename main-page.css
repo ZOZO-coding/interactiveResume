@@ -1,0 +1,42 @@
+.main-page{
+    text-align: center;
+}
+
+.personal-picture{
+    text-align: center;
+}
+
+#main{
+    margin-top: 20px;
+}
+
+#main img{
+    opacity: 0.6;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+#main #main-introduction{
+    color: white;
+    word-wrap: break-word;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+#main #main-introduction h1{
+    width: 400px;
+}
+#main #main-introduction p {
+    line-height: 30px;
+    word-wrap: break-word;
+    width: 400px;
+    font-size: 18px;
+}
+#main #main-introduction a{
+    color: inherit;
+    text-decoration: none;
+}
+#main #main-introduction button{
+    margin-left: 100px;
+}

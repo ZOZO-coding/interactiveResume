@@ -1,0 +1,17 @@
+#portfolio-main .col{
+    margin: 10px 20px;
+}
+
+#portfilio-main .col .project{
+    padding: 0 10px;
+}
+
+#portfilio-main .col .project img{
+    opacity: 0.8;
+    transition: 3s;
+    width: 100%;
+}
+
+#portfilio-main .col .project img:hover{
+    transform: scale(1.05);
+}

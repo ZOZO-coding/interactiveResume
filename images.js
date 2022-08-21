@@ -1,0 +1,17 @@
+export const img = [
+    "https://res.cloudinary.com/defqd6pxk/image/upload/v1661008134/RestaurantMock/39B2E87A-C9F3-4578-BF72-AD69D0FBB61A_f4wd6n.jpg",
+    "https://res.cloudinary.com/defqd6pxk/image/upload/v1661008133/RestaurantMock/6A7B395A-E6DD-480D-A9C4-4F536A989D17_todwdg.jpg",
+    "https://res.cloudinary.com/defqd6pxk/image/upload/v1661008130/RestaurantMock/EFA8BB6D-3B1E-45F0-978B-3841C8CF86EA_e6qexm.jpg",
+    "https://res.cloudinary.com/defqd6pxk/image/upload/v1661008139/RestaurantMock/33D14E49-2E27-48A1-A32B-5F52FDC4350A_gncqdq.jpg",
+    "https://res.cloudinary.com/defqd6pxk/image/upload/v1661008140/RestaurantMock/DE072FB3-0631-45B0-89E1-DEF87AAF278A_iylafr.jpg",
+    "https://res.cloudinary.com/defqd6pxk/image/upload/v1661008135/RestaurantMock/617EF295-63AB-4CEC-B310-3BD1709CA332_qtyxm7.jpg",
+    "https://res.cloudinary.com/defqd6pxk/image/upload/v1661008137/RestaurantMock/690FBC8C-D0B3-4EA5-9718-BA07B9E126FE_na905l.jpg",
+    "https://res.cloudinary.com/defqd6pxk/image/upload/v1661008132/RestaurantMock/FBFB510B-8102-4EFF-AB26-1303D6BBC65A_qyaaug.jpg",
+    "https://res.cloudinary.com/defqd6pxk/image/upload/v1661008134/RestaurantMock/6A387CF6-64CA-41A3-AACE-6864F9F0D7FA_ynphy7.jpg",
+    "https://res.cloudinary.com/defqd6pxk/image/upload/v1661008129/RestaurantMock/B9FEE9D7-0DE9-4E78-8621-574B7B396D8D_aianc0.jpg",
+    "https://res.cloudinary.com/defqd6pxk/image/upload/v1661008125/RestaurantMock/A5613232-B3E9-4314-BF63-B78A4C8394E5_jjnytt.jpg",
+    "https://res.cloudinary.com/defqd6pxk/image/upload/v1661008128/RestaurantMock/D4183322-8050-4EEF-9DBE-FCFCEF2796EB_jty5uq.jpg",
+    "https://res.cloudinary.com/defqd6pxk/image/upload/v1661008130/RestaurantMock/94A5B45D-B1F5-46A7-B581-8DA45416AB04_qpnpb5.jpg",
+    "https://res.cloudinary.com/defqd6pxk/image/upload/v1661008130/RestaurantMock/E19A8F9D-B8E7-48F0-BC4C-7F65FC3EC36B_ya8igb.jpg",
+    "https://res.cloudinary.com/defqd6pxk/image/upload/v1661008126/RestaurantMock/F40FA0F1-AE96-4BD7-8B22-BD9001BF5FE5_wnijo9.jpg",
+];
