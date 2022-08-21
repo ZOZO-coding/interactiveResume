@@ -43,9 +43,30 @@
 
 #pic-generate button{
     word-wrap: break-word;
-    color: aqua;
     width: 200px;
     margin-top: 100px;
+    font-weight: 800;
+    border: none;
+    background: linear-gradient(to right, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);
+    font-size: 25px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#pic-generate button:hover{
+    animation-name: rotate;
+    animation-duration: 0.8s;
+}
+@keyframes rotate {
+    0%{
+        
+    }
+    50%{
+        transform: scale(-1, 1);
+    }
+    100%{
+        
+    }
 }
 
 .img-container{

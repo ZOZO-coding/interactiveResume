@@ -11,6 +11,33 @@ body{
     background-color: rgb(248,249,250);
     opacity: 0.7;
 }
+
+#name{
+    position: relative;
+}
+
+/* #header .nameTag h2 {
+    transition: 3s;
+} */
+
+#header .nameTag{
+    position: absolute;
+    animation: move 3s ease-in infinite;
+    transition: 2s;
+}
+@keyframes move {
+    0%{
+        left: 10px;
+    }
+    50%{
+        transform: translateX(100px);
+        color: #2196f3;
+    }
+    100%{
+        left: 10px;
+    }
+}
+
 .navbar-brand{
     background: none;
     color: #ffa260;
